@@ -9,6 +9,7 @@ Mini-language built in Rust for the Formal Languages & Compiler Design universit
 &nbsp;&nbsp;&nbsp;&nbsp;Link: https://github.com/trueNebula/PyPlusPlus/pull/1?fbclid=IwAR2TAynQeLoZyZRlwd6L9yvMVrJ48ed4Zmg-B81SUqtnpY-8sGwBtzJl8t4
 
 ## Design
+<img src="UML.png"/>
 
 ## Implementation
 ### 1. Symbol Table
