@@ -1,5 +1,7 @@
 # Alpakas
 
+## NOTE: The development of this project is discontinued as this repository has been archived
+
 Mini-language built in Rust for the Formal Languages & Compiler Design university course.
 
 **Student: Iulia-Diana Groza, Gr. 933/1**
@@ -194,7 +196,7 @@ The lexical scanner program makes use of two instances of the `FiniteAutomata` c
     * From `NZ` to `INT` on `0-9`
     * Self-loop on `INT` for `0-9`
 
-
+#### © Iulia Groza
 
 
 
